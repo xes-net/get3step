@@ -1,0 +1,9 @@
+{
+  "name": ".L Mobile Reader",
+  "short_name": ".L Reader",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f10",
+  "theme_color": "#111111",
+  "description": "Mobile-first .L verification reader"
+}
